@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This repository is use for my capstone project affiliated to Coursera.
+This repository is used for my capstone project affiliated to Coursera.
